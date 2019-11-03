@@ -77,14 +77,23 @@
        padding-bottom: 3rem;
      }
 
-     p { margin-top: 1.4rem;
-    margin-bottom: 1.4rem;
-    padding-right: 0;
-    vertical-align: baseline; }
+     p {
+       font-size: .875rem;
+       line-height: 1.5rem;
+       margin-bottom: 1.5rem;
+      }
+
+    blockquote {
+      font-size: 1.4rem;
+      width: 55%;
+      margin-right: 40px;
+    }
+
 
      footer {
-       border-top: 1px solid #bbb;
+       border-top: 1px solid #aaaaaa;
      }
+
      dl {
        text-transform: uppercase;
        font-size: 1.2rem;
