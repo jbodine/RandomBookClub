@@ -42,8 +42,18 @@
        text-decoration: underline;
      }
 
-     author {
+     book {
+       font-size: 2rem;
+       line-height: 1rem;
+       font-weight: 400;
+       margin-bottom: 2rem;
+     }
 
+     author {
+       font-size: .875rem;
+       line-height: 1.5rem;
+       font-weight: 400;
+       margin-bottom: 4rem;
      }
 
 
